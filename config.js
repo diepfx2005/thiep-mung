@@ -1,7 +1,7 @@
 const nameGirl = 'Hí nhô!';
 const giftUrl = 'http://nodemy.vn';
 const eventName = 'Chúc mừng năm mới 🎉🎉';
-const titleCard = 'Hồ Thị Toàn';
+const titleCard = 'Bùi Văn Điệp';
 const contentCard = 'Happy new year, chúc cậu năm mới vui vẻ và gặp nhiều điều may mắn trong cuộc sống và chúc cậu sang năm mới ngày càng xinh đẹp hơn và học giỏi hơn nữa đặc biệt hơn là chúc gia đình cậu sang năm  làm ăn phát đạt, tiền vô như nước.  ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
